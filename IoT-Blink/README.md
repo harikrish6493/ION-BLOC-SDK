@@ -75,8 +75,7 @@ The above code will make to blink the LED for 5s
 - Run the code using the command.
 
 ```
-$sudo node blink.js
-    
+$sudo node blink.js   
 ```
 
 Let's use the blockchain now. 
